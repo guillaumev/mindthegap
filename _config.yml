@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Mind The Gap
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+email: guillaume@viguierjust.com
+description: "Thoughts about web consulting and bridging gaps in general"
+baseurl: "/mindthegap"
+url: "http://guillaumev.github.io"
 twitter_username: SBootstrap
-github_username:  davidtmiller
+github_username:  guillaumev
 facebook_username:  IronSummitMedia
 
 # Build settings
